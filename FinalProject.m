@@ -823,7 +823,5 @@ disp(['Max Torsional Stress (Crankshaft): ', num2str(tauMaxShaft),' Pa']);...
 
 disp(['Flywheel''s Diameter:  ', num2str(1000*round(FlyWheeld,2)),' mm']);...
 disp(['Flywheel''s Thickness:   ', num2str(1000*th),' mm'])
-%% 
-% 
-% 
+%% Gearbox Diagram
 %
